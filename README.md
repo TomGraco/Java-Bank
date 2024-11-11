@@ -17,10 +17,10 @@ The **Java Bank** application simulates basic bank operations with a user-friend
 
 - **User Account Management**: Create two types of accounts — **Savings** and **Checking**.
 - **Transaction Options**:
-  - **Check Balance**: View the balance of each account.
-  - **Deposit Funds**: Add funds to an account.
-  - **Withdraw Funds**: Remove funds from an account.
-  - **Transfer Funds**: Move funds between accounts.
+- **Check Balance**: View the balance of each account.
+- **Deposit Funds**: Add funds to an account.
+- **Withdraw Funds**: Remove funds from an account.
+- **Transfer Funds**: Move funds between accounts.
 - **Exit Option**: Safely exit the application when done.
 
 ## 🚀 Getting Started
@@ -34,5 +34,4 @@ The **Java Bank** application simulates basic bank operations with a user-friend
 - **Multiple User Accounts**: Allow multiple users to create individual accounts with separate credentials.
 - **Interest Calculation**: Add interest calculations for savings accounts to accumulate interest over time.
 - **Transaction History**: Maintain a log of user transactions for viewing recent activity.
-- **Account Authentication**: Require user login to securely access accounts and prevent unauthorized access.
 - **Graphical User Interface (GUI)**: Move from a CLI to a GUI-based application for an enhanced user experience with visual elements.
